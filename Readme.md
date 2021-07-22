@@ -1,19 +1,19 @@
-﻿CLASSIC CLONE OF BRICK-BREAKER GAME IN PYTHON: LIBRARIES TO DOWNLOAD : 
+# CLASSIC CLONE OF BRICK-BREAKER GAME IN PYTHON: 
+# LIBRARIES TO DOWNLOAD : 
 
 pip3 install colorama 
 
-TO RUN THE CODE :  
+# TO RUN THE CODE :  
 
 python3 start\_game.py 
 
-INSTRUCTIONS :  
+# INSTRUCTIONS TO PLAY THE GAME:  
 
 W/w - to exit 
-
 A/a - to move paddle left D/d - to move paddle right X/x - to start the ball 
 l/L - to move to next level
 
-SCORING SCHEME :  
+# SCORING SCHEME :  
 
 CYAN BRICKS : 10 
 
@@ -21,11 +21,13 @@ BLUE BRICKS :  30
 
 GREEN BRICKS : 20 
 
-Levels : 3 (game ends after 3rd level)
+# Levels : 3 (game ends after 3rd level)
 
-DESTROYING/EXPLOSION BRICKS : 320 (including the wall score) 
+DESTROYING/EXPLOSION BRICKS SCORE : 320 (including the wall score) 
 
-LIFE TOTAL : 3 OOPS CONCEPTS : 
+LIFE TOTAL : 3 
+
+# OOPS CONCEPTS USED : 
 
 1.INHERITANCE :  
 
